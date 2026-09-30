@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Script Basics</title>
+</head>
+<body>
+
+  <h1>Loading...</h1>
+
+  <!-- Module script -->
+  <script type="module" src="app.js"></script>
+
+  <!-- Inline module script -->
+  <script type="module">
+    import { userInfo } from "./15_modules_export.js";
+    console.log(userInfo.name);
+  </script>
+
+</body>
+</html>
