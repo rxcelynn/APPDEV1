@@ -62,6 +62,13 @@ __Reflection__
 - I'm running out of prompts in my head and I want to use AI na, huhu pero I'll keep my tabs close in AI because I enjoy how antigravity respond in my grammatical error
 
 # 07_dom.html
+__Prompt__
+Open 07_dom.html
+
+explain why is the button didn't change the background, and change the background into pink
+
+__Reflection__
+- Now I understand why is the button's not working, in F_03_javascript-refresher, i'm confused why is the button not working and now i know why.
 
 # 08_essential_features.js
 
