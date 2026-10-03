@@ -70,7 +70,16 @@ explain why is the button didn't change the background, and change the backgroun
 __Reflection__
 - Now I understand why is the button's not working, in F_03_javascript-refresher, i'm confused why is the button not working and now i know why.
 
-# 08_essential_features.js
+# 08_essential_features
+__Prompt__
+Open `08_essential_features.js` and help me understand how the code works, especially the use of `.map()`, destructuring, and the spread operator.
+
+Explain each one using the examples in the file. Also, show me how they work together and why they are useful in React.
+
+Keep the explanations simple and use examples from the existing file. Don't make unnecessary changes to the code.
+
+__Reflection__
+- I use ai here. But my prompt will help me to understand more about the essential features
 
 # 09_tricky_parts.js
 
