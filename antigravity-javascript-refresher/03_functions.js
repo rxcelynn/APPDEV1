@@ -1,5 +1,5 @@
 function greet(name) {
-  return "Hello from the other side, " + name;
+  return "Happy Teachers' Month from BSIS 3, " + name;
 }
  
 const square = (num) => {
@@ -10,6 +10,6 @@ function calculator(a, r) {
   return { sum: a + r, product: a * r };
 }
 
-console.log(greet("Rosie"));
-console.log(square(4));
-console.log(calculator(3, 5));
+console.log(greet("Mr. Elmer"));
+console.log(square(100));
+console.log(calculator(100, 200));

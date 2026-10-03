@@ -24,10 +24,17 @@ __Reflection__
 - Nag-enjoy me na mag-isip ng prompt and I'll use on the other parts to explain the topics or parts that is confusing for me.
 
 # 03_functions
+__Prompt__
+Open 03_functions.js
 
-# 04_objects.js
+Change the values of the number into 3 digits even number. Greet Mr. Elmer "Happy Teachers' Month from BSIS 3" instead of "Hello from the other side" 
 
-# 05_arrays.js
+__Reflection__
+- I'm happy with my prompt because I don't know  if my grammar is correct pero nagtutuloy-tuloy pa rin siya
+
+# 04_objects
+
+# 05_arrays
 
 
 # 06_control_structures.js
