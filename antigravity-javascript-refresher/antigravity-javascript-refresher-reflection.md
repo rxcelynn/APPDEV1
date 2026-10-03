@@ -33,8 +33,16 @@ __Reflection__
 - I'm happy with my prompt because I don't know  if my grammar is correct pero nagtutuloy-tuloy pa rin siya
 
 # 04_objects
+__Prompt__
+Open 04_objects.js
+
+Add another function that will log my hobby, my age, and my course.
+
+__Reflection__
+- I want to see how antigravity will execute my prompt if i want to add another function. Ang galing niya haha pero I know it's just a simple prompt. I'll make something difficult on the other parts.
 
 # 05_arrays
+
 
 
 # 06_control_structures.js
