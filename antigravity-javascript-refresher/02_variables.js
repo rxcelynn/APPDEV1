@@ -1,6 +1,6 @@
-let name = "eia";
+let name = "Andrea";
 let age = 21;
-let isStudent = true;
+let isStudent = false;
  
 console.log(name, typeof name);
 console.log(age, typeof age);

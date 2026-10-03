@@ -15,6 +15,13 @@ __Reflection:__
 - after running the prompt, im somehow confused if what i did was right. but it shows naman, nagkaroon naman ng output.
 
 # 02_variables
+__Prompt__
+Open 02_variables.js.
+
+Change the name in "Andrea" and make the isStudent value as false then log. explain the difference of == and ===.
+
+__Reflection__
+- Nag-enjoy me na mag-isip ng prompt and I'll use on the other parts to explain the topics or parts that is confusing for me.
 
 # 03_functions
 
