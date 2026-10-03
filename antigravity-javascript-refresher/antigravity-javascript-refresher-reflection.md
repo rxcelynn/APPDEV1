@@ -51,6 +51,15 @@ __Reflection__
 - My prompt explains how push and shift work and I understand the antigravity's explanation. ^^
 
 # 06_control_structures
+__Prompt__
+Open `06_control_structure.js and check if the grade checker wrong or if it has an error.
+
+First, run the file and show me the actual output. If it has a problem, fix it in simplest way.
+
+If doesn't have any error, just change the score into higher one. And log, "Congrats, valo pa more!"
+
+__Reflection__
+- I'm running out of prompts in my head and I want to use AI na, huhu pero I'll keep my tabs close in AI because I enjoy how antigravity respond in my grammatical error
 
 # 07_dom.html
 

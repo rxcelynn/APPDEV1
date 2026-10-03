@@ -1,5 +1,8 @@
-let score = 75;
-if (score >= 90) { console.log("A"); }
+let score = 95;
+if (score >= 90) { 
+  console.log("A"); 
+  console.log("Congrats, valo pa more!");
+}
 else if (score >= 80) { console.log("B"); }
 else if (score >= 70) { console.log("C"); }
 else { console.log("F"); }
