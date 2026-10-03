@@ -42,17 +42,19 @@ __Reflection__
 - I want to see how antigravity will execute my prompt if i want to add another function. Ang galing niya haha pero I know it's just a simple prompt. I'll make something difficult on the other parts.
 
 # 05_arrays
+__Prompt__
+Check 05_arrays.js file
 
+Explain how push() and shift works and how do they append. Change the log into "I love Ponkan" only.
 
+__Reflection__
+- My prompt explains how push and shift work and I understand the antigravity's explanation. ^^
 
-# 06_control_structures.js
-
+# 06_control_structures
 
 # 07_dom.html
 
-
 # 08_essential_features.js
-
 
 # 09_tricky_parts.js
 

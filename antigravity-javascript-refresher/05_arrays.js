@@ -1,10 +1,5 @@
-let favoriteFoods = ["Ponkan", "Fried Chicken", "Ice Cream"];
-favoriteFoods.push("Cake"); //  ["Ponkan", "Fried Chicken", "Ice Cream", "Cake"];
-favoriteFoods.shift(); // ["Fried Chicken", "Ice Cream", "Cake"];
- 
-for (const food of favoriteFoods) {
-  console.log(food);
-}
- 
-const liked = favoriteFoods.map(food => "I like " + food + " so so much!");
-console.log(liked);
+let favoriteFoods = ["Apple", "Ponkan", "Fried Chicken"];
+favoriteFoods.push("Cake"); // Appends "Cake" to the end: ["Apple", "Ponkan", "Fried Chicken", "Cake"]
+favoriteFoods.shift();      // Removes "Apple" from the beginning: ["Ponkan", "Fried Chicken", "Cake"]
+
+console.log("I love " + favoriteFoods[0]);
