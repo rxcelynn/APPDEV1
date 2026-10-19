@@ -1,0 +1,43 @@
+:root {
+    /* ---------- Font Family ---------- */
+    --font-family-base: 'Poppins', sans-serif;
+
+    /* ---------- Colors ---------- */
+    --color-primary: #5b86e5;
+    --color-background: #a9c0f0;
+    --color-surface: #ffffff;
+    --color-text: #333333;
+    --color-text-muted: #9a9a9a;
+    --color-text-light: #ffffff;
+
+    /* ---------- Font Sizes ---------- */
+    --font-size-base: 16px;
+    --font-size-heading: 28px;
+    --font-size-tagline: 32px;
+
+    /* ---------- Font Weights ---------- */
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+
+    /* ---------- Typography ---------- */
+    --letter-spacing-wide: 1px;
+    --line-height-heading: 1.25;
+
+    /* ---------- Spacing ---------- */
+    --spacing-sm: 16px;
+    --spacing-md: 24px;
+    --spacing-lg: 28px;
+    --spacing-xl: 36px;
+    --spacing-2xl: 60px;
+    --spacing-form-heading: 110px;
+
+    /* ---------- Borders ---------- */
+    --radius-button: 8px;
+    --radius-panel: 60px;
+
+    /* ---------- Shadows ---------- */
+    --shadow-logo: 0 20px 20px rgba(60, 80, 140, 0.35);
+}
