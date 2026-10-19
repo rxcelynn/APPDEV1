@@ -1,32 +1,35 @@
 :root {
-    /* ---------- Font Family ---------- */
+    /* Font family */
     --font-family-base: 'Poppins', sans-serif;
 
-    /* ---------- Colors ---------- */
+    /* Colors */
     --color-primary: #5b86e5;
+    --color-page-background: #5b86e5;
     --color-background: #a9c0f0;
     --color-surface: #ffffff;
     --color-text: #333333;
     --color-text-muted: #9a9a9a;
     --color-text-light: #ffffff;
+    --color-input-border: #cfcfcf;
+    --color-divider: #888888;
 
-    /* ---------- Font Sizes ---------- */
+    /* Font sizes */
     --font-size-base: 16px;
     --font-size-heading: 28px;
     --font-size-tagline: 32px;
 
-    /* ---------- Font Weights ---------- */
+    /* Font weights */
     --font-weight-light: 300;
     --font-weight-regular: 400;
     --font-weight-medium: 500;
     --font-weight-semibold: 600;
     --font-weight-bold: 700;
 
-    /* ---------- Typography ---------- */
+    /* Typography */
     --letter-spacing-wide: 1px;
     --line-height-heading: 1.25;
 
-    /* ---------- Spacing ---------- */
+    /* Spacing */
     --spacing-sm: 16px;
     --spacing-md: 24px;
     --spacing-lg: 28px;
@@ -34,10 +37,10 @@
     --spacing-2xl: 60px;
     --spacing-form-heading: 110px;
 
-    /* ---------- Borders ---------- */
+    /* Borders */
     --radius-button: 8px;
     --radius-panel: 60px;
 
-    /* ---------- Shadows ---------- */
+    /* Shadows */
     --shadow-logo: 0 20px 20px rgba(60, 80, 140, 0.35);
 }

@@ -1,13 +1,15 @@
-import { useState } from 'react'
-import './App.css'
-import Login from './assets/components/Login.jsx'
+import { useState } from "react";
+import Login from "./components/Login/Login.jsx";
+import SignUp from "./components/SignUp/SignUp.jsx";
 
 function App() {
-    return (
-    <>
-        <Login />
-    </>
-    )
+    const [showSignUp, setShowSignUp] = useState(false);
+
+    return showSignUp ? (
+        <SignUp onLoginClick={() => setShowSignUp(false)} />
+    ) : (
+        <Login onSignupClick={() => setShowSignUp(true)} />
+    );
 }
 
-export default App
+export default App;

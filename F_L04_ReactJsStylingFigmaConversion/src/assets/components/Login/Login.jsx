@@ -1,7 +1,7 @@
 import styles from "./Login.module.css";
 import logo from "../../assets/logo.svg";
 
-export default function Login() {
+export default function Login({ onSignupClick }) {
     return (
         <div className={styles.login}>
             {/* ---------- Left panel ---------- */}
